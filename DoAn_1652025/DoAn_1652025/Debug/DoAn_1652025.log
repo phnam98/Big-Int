@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(16): note: consider using '%lld' in the format string
+  c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(16): note: consider using '%I64d' in the format string
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(26): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(26): note: consider using '%lld' in the format string
+  c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(26): note: consider using '%I64d' in the format string
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(7): warning C4101: 'j': unreferenced local variable
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\main.cpp(7): warning C4101: 'i': unreferenced local variable
+  QInt.cpp
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(5): warning C4101: 'j': unreferenced local variable
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(25): warning C4101: 'c': unreferenced local variable
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(54): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(77): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(242): warning C4101: 'i': unreferenced local variable
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(257): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(507): warning C4101: 'i': unreferenced local variable
+c:\users\namphan\documents\visual studio 2017\projects\doan_1652025\doan_1652025\qint.cpp(526): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  DoAn_1652025.vcxproj -> C:\Users\NamPhan\Documents\Visual Studio 2017\Projects\DoAn_1652025\Debug\DoAn_1652025.exe
+  DoAn_1652025.vcxproj -> C:\Users\NamPhan\Documents\Visual Studio 2017\Projects\DoAn_1652025\Debug\DoAn_1652025.pdb (Partial PDB)
